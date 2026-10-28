@@ -4,7 +4,7 @@
 - **Team Name:** Group 4
 - **Business Name:** Dopami
 - **Team Lead:** Faith
-- **Recorder:** Faith (temp) 
+- **Recorder:** De' Von  
 - **Reporter / Git Lead:** faith (temp)
 
 ## Step 1: Business Model
